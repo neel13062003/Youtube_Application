@@ -13,12 +13,12 @@
   margin: 0;
   padding: 0;
 }">
-    <li>Create Account (login/signup)<li>
-    <li>Also withuot login watch videoes/ see posts made by content creator <li>
-    <li>Can publish video/post<li>
-    <li>Can follow channel<li>
-    <li>Like,Dislike Video<li>
-    <li>Comments On Video and Post<li>
+    <li>Create Account (login/signup)</li>
+    <li>Also withuot login watch videoes/ see posts made by content creator </li>
+    <li>Can publish video/post</li>
+    <li>Can follow channel</li>
+    <li>Like,Dislike Video</li>
+    <li>Comments On Video and Post</li>
     <li>Share video using link</li>
     <li>Search videoes from title/discription/content creator channel name </li>
     <li>Complete Responsive</li>
