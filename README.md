@@ -1,11 +1,11 @@
 # Youtube_Application
 
 <h2> Youtube Webapplication made using Advanced java</h2>
-<h2> Frontend (html, css, javascript ) </h2>
-<h2> FrameWork (Boostrap, Jquery, Ajax,Hybernet) </h2>
-<h2> Backend (jsp, servlet) </h2>
-<h2> Database (mysql) </h2>
-<h2> Server Tomcat/Glassify</h2>
+<h3> Frontend (html, css, javascript ) </h3>
+<h3> FrameWork (Boostrap, Jquery, Ajax,Hybernet) </h3>
+<h3> Backend (jsp, servlet) </h3>
+<h3> Database (mysql) </h3>
+<h3> Server Tomcat/Glassify</h3>
 
 <h1>Features (MVC Design Pattern)</h1>
 <ul style="ul {
