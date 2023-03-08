@@ -5,10 +5,14 @@
 <h2> FrameWork (Boostrap, Jquery, Ajax,Hybernet) </h2>
 <h2> Backend (jsp, servlet) </h2>
 <h2> Database (mysql) </h2>
-<h2> Server Tomcat/Glassify </h2>
+<h2> Server Tomcat/Glassify</h2>
 
-<h1>Features</h1>
-<ul>
+<h1>Features (MVC Design Pattern)</h1>
+<ul style="ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}">
     <li>Create Account (login/signup)<li>
     <li>Also withuot login watch videoes/ see posts made by content creator <li>
     <li>Can publish video/post<li>
